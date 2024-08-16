@@ -1,2 +1,18 @@
-# first_version_Knucklebones
-This is a simple implementation of the game Knucklebones, created in Python. Please note that this was my first coding project, so the game isn't written particularly well. The scoring system works, but the points multiplier is not implemented in the best way, and there are likely some inefficiencies in the code.
+# Dice Game
+
+## Overview
+
+This project is a simple text-based dice game where two players, "Player 1" and "Player 2", take turns rolling a virtual dice and placing the result in one of the columns of their respective game tables. The objective is to score the most points by strategically placing the dice rolls in the appropriate columns and attempting to block or reduce the opponent's score.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/dice-game.git
