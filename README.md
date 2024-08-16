@@ -1,4 +1,5 @@
-# Dice Game
+# Knucklebones
+
 
 ## Overview
 
@@ -10,9 +11,12 @@ This project is a simple text-based dice game where two players, "Player 1" and 
 
 - Python 3.x
 
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/dice-game.git
+### How to Play
+```
+1. Run the script in a Python environment.
+2. The game will start automatically with Player 1 taking their turn.
+3. Players take turns rolling the dice (simulated by the program) and choosing a column to place the result.
+4. The game checks if the selected column is full or if any opponent's dice result can be removed from that column.
+5. The game continues until all columns are filled.
+6. The program calculates and displays the final scores of both players.
+```
